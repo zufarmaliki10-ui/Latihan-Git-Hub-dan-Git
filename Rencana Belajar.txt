@@ -1,0 +1,3 @@
+Rencana Belajar Programming
+- Belajar Python
+- Belajar Git dan GitHub
